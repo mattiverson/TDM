@@ -1,0 +1,34 @@
+name: M1TDM
+version: 1.0.1
+main: me.m1v3rpwn.m1tdm.main.Main
+commands:
+  switch:
+    description: 
+    usage: /switch
+  hintson:
+    description: 
+    usage: /hintson
+  hintsoff:
+    description: 
+    usage: /hintsoff
+  brewer:
+    description: 
+    usage: /brewer
+  fighter:
+    description: 
+    usage: /fighter
+  climber:
+    description: 
+    usage: /climber
+  tank:
+    description: 
+    usage: /tank
+  zeus:
+    description: 
+    usage: /zeus
+  priest:
+    description: 
+    usage: /priest
+  sniper:
+    description: 
+    usage: /sniper
