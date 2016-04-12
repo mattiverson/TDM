@@ -1,6 +1,6 @@
-name: M1TDM
+name: TDM
 version: 1.0.1
-main: me.m1v3rpwn.m1tdm.main.Main
+main: tdm.main.Main
 commands:
   switch:
     description: 
